@@ -6,7 +6,7 @@
 
 - JDK - 17.0.2
 - JavaFX SDK - 17.0.2
-- json-simple-1.1.1 - 1.1.1
+- json-simple - 1.1.1
 
 ## vmArgs Setup
 
